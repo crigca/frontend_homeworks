@@ -1,0 +1,67 @@
+html, body{
+   height: 100%;
+    background-color: black;
+}
+
+h1{
+    color: tan;
+    text-align: center;
+    font-size: 80px;
+    margin-top: auto;
+}
+
+.principal_title{
+    height: 20%;
+    margin: 5px;
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    padding: 5px;
+    content: 10px;
+    background-image: url(images/wallpapper.webp);
+}
+
+.info {
+    margin: 5px;
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    padding: 5px;
+    content: 10px;
+    height: 75%;
+    display: flex;
+}
+
+
+.title{
+    color:white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.content{
+    color: white;
+    text-align:center;
+}
+    
+.image {
+    width: 60%;  
+  
+}    
+
+.link{
+    color:white;
+}
+   
+.footer{
+    margin: 5px;
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    padding: 5px;
+    content: 10px;
+    height: 5%;
+}
+   
+
+
